@@ -6,5 +6,5 @@ gem "sinatra-contrib"
 gem "erubis"
 ruby "2.6.0"
 group :production do
-  gem "puma", ">= 4.3.3" # updated due to GitHub alert
+  gem "puma", ">= 4.3.5" # updated due to GitHub alert
 end
